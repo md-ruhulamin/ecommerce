@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873534882666",
+    "project_id": "eshop-fce37",
+    "storage_bucket": "eshop-fce37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873534882666:android:145b4906a7c5fc0ed75b13",
+        "android_client_info": {
+          "package_name": "com.example.eshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUHtF5mw_a9k1E7lpvDHG9LmDrgJzjE9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
